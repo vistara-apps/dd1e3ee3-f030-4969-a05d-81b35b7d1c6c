@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LexiGuard",
+    "subtitle": "Built with Zara",
+    "description": "LexiGuard is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app",
+    "splashImageUrl": "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app/image.png",
+    "tagline": "LexiGuard",
+    "screenshotUrls": [
+      "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app/screenshot.png",
+      "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://dd1e3ee3f0304969a05d81b35b7d1c6c-4opv.vercel.app/api/webhook"
+  }
+}
