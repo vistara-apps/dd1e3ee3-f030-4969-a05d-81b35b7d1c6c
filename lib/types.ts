@@ -91,7 +91,7 @@ export interface IncidentMetadata {
 // App State Types
 export interface AppState {
   currentUser: User | null;
-  selectedState: string;
+  selectedState: StateCode;
   activeTab: 'guides' | 'scripts' | 'record' | 'incidents';
   isRecording: boolean;
   currentIncident: Partial<Incident> | null;
